@@ -1,1 +1,1 @@
-test <- function() pring('Only a test')
+test <- function() print('Only a test')
